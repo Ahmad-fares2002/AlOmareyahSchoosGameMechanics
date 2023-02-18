@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "4cf2e62f-86f4-d19a-8430-30ff3be3a935",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "yellowbird-midflap",
+    "objGuid": "Guid(4704151580750427084, 2323149237410783152)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "6655d037-6936-942f-24b6-41cbd5f8dd55",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bluebird-midflap",
+    "objGuid": "Guid(5007279547105821993, 18428518161059524751)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

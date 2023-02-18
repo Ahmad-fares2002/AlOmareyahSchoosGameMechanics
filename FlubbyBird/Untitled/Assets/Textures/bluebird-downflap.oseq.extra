@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "e9aa4fd5-46e7-f78e-d361-fde3ad0b3ae3",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "bluebird-downflap",
+    "objGuid": "Guid(5249213051533821611, 13317449495066629250)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

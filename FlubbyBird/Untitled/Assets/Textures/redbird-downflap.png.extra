@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "b3d016cd-694c-f05c-b5d5-a79dafc74c26",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "redbird-downflap",
+    "objGuid": "Guid(5196716997624041792, 18040189261850595752)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

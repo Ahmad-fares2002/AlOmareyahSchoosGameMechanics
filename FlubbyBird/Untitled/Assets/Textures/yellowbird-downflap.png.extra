@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "87506f1a-160f-7a12-259a-5d120cdd0852",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "yellowbird-downflap",
+    "objGuid": "Guid(4719448378720661453, 11647435716388444075)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

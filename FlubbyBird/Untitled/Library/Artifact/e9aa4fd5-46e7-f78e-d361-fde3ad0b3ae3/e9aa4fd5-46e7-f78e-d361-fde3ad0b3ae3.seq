@@ -1,0 +1,20 @@
+%YAML 1.1
+--- !AnimSeq &5
+name: bluebird-downflap
+guid: {a: 5249213051533821611, b: 13317449495066629250}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: e9aa4fd5-46e7-f78e-d361-fde3ad0b3ae3--0.imageatlas}
+  - {localId: 1, path: e9aa4fd5-46e7-f78e-d361-fde3ad0b3ae3--1.imageatlas}
+  - {localId: 1, path: e9aa4fd5-46e7-f78e-d361-fde3ad0b3ae3--2.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0
